@@ -9,3 +9,8 @@
 .passage-reading .passage-meta{margin:0;text-indent:0;line-height:1.55}
 .passage-reading .passage-meta + .passage-paragraph{text-indent:2em}
 @media(max-width:650px){.passage{line-height:1.65;margin:9px 0 16px;padding:12px 13px}.passage-reading .passage-paragraph{line-height:1.65}}
+
+/* Retake controls available from the section list and completed sections. */
+.retry-selector{margin-top:12px}
+.retry-selector .btn{font-size:14px;padding:8px 13px;min-height:40px}
+.retry-top{margin:7px 0 12px}
